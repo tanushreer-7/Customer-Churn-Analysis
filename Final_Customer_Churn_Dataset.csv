@@ -1,0 +1,126 @@
+customer_name,age,gender,service_name,acc_creation_date,last_login,tenure,subscription_plan,ad_supported_plan,subscription_duration,free_trail_used,free_trail_duration,usage_hours,average_watch_time,binge_watching,no_of_logins_perday,no_of_devices_used,content_type_preference,payment_type,customer_support_interaction,discounts_availed,renewal_status,rating
+Hansika S,20,Female,Amazon Prime Video ,01-03-2022,31-07-2024,943,Standard,No,913,Yes,30,1.5,1.2,No,1,1,Movies,Credit/Debit Card,No,Yes,Not Sure,4
+Sam Jonhs,30,Male,Amazon Prime Video ,10-05-2024,10-02-2025,275,Standard,No,30,No,0,1.2,1.2,No,1,4,Documentaries,Credit/Debit Card,No,Yes,Yes,4
+Nisha Deka,30,Prefer not to say,Amazon Prime Video ,02-12-2020,02-02-2025,1184,Basic,Yes,120,No,0,4,1,No,5,3,Reality Shows,Credit/Debit Card,No,Yes,No,4
+Nasha,36,Other,Amazon Prime Video ,01-08-2023,12-01-2025,530,Basic,No,180,No,0,2.08,1.93,No,7,3,Education,UPI,Yes,No,Yes,3
+Sindhu,59,Female,Amazon Prime Video ,05-05-2024,09-01-2025,0,Free,No,0,Yes,10,3.89,1.97,Yes,1,5,Education,Credit/Debit Card,Yes,Yes,No,3
+Simran Kaur,25,Prefer not to say,AWS,18-04-2024,02-04-2025,349,Standard,No,0,No,0,12.5,0,No,8,1,Not Applicable,Not Applicable,No,No,Not Sure,5
+Sneha Tiwari ,35,Prefer not to say,AWS,08-10-2018,02-04-2025,2386,Premium,No,180,No,0,12,0,No,3,1,Not Applicable,Not Applicable,No,No,Not Sure,5
+Kumar,25,Male,AWS,17-03-2023,21-07-2024,0,Free,No,0,No,0,4.17,2.27,No,5,2,Education,UPI,Yes,Yes,Yes,2
+Rajesh,49,Male,AWS,05-01-2024,24-08-2025,597,Premium,No,365,Yes,1,0.86,1.5,No,9,4,Productivity,Gift Card,Yes,Yes,No,1
+Rukmini,59,Other,AWS,29-09-2023,25-08-2025,0,Free,No,0,No,0,5.39,1.86,No,8,2,Productivity,UPI,No,Yes,Yes,2
+Rohini M,20,Female,ChatGPT,15-11-2023,03-04-2025,0,Free,No,0,No,0,1,0.5,Yes,4,2,Not Applicable,Not Applicable,No,No,No,5
+Tanushree R,20,Female,ChatGPT,31-12-2023,03-04-2025,0,Free,No,0,Yes,365,1,0.5833,Yes,4,2,Not Applicable,Not Applicable,No,No,No,5
+Lakman,56,Male,ChatGPT,08-01-2023,04-09-2023,239,Basic,Yes,90,No,0,2.09,0.8,No,7,2,Education,Wallet,Yes,No,Yes,4
+Suresh,45,Male,ChatGPT,15-04-2024,02-08-2024,109,Basic,No,365,No,0,2.09,1.51,No,3,5,Productivity,UPI,Yes,No,Yes,2
+James,55,Female,ChatGPT,20-06-2024,08-10-2024,110,Basic,No,180,Yes,14,4.79,0.69,Yes,9,5,Education,UPI,No,Yes,Yes,1
+Khushi G,20,Female,Duolingo,01-01-2024,31-01-2024,0,Free,No,0,Yes,30,0.0833,0.0833,No,1,1,Not Applicable,Not Applicable,No,No,No,2
+Jaya,48,Female,Duolingo,07-12-2023,24-07-2025,595,Premium,No,365,No,0,5.28,2.95,Yes,10,4,Education,Wallet,Yes,No,No,4
+Jake,60,Other,Duolingo,05-06-2023,23-11-2024,0,Free,Yes,0,Yes,30,1.05,2.78,Yes,3,4,Education,Credit/Debit Card,No,No,No,5
+Dama,20,Female,Duolingo,27-02-2023,23-01-2024,330,Basic,No,365,Yes,7,3.42,1.91,Yes,3,2,Entertainment,UPI,No,Yes,No,5
+Chithra,32,Female,Duolingo,15-10-2024,01-08-2025,290,Basic,No,30,No,0,5.46,2.19,Yes,2,4,News,UPI,No,No,No,4
+Nicolas,33,Other,Facebook,02-09-2024,24-12-2024,113,Premium,No,180,Yes,2,0.84,1.87,Yes,10,5,Education,Credit/Debit Card,No,No,Yes,2
+Key,23,Other,Facebook,01-04-2024,26-06-2024,86,Basic,Yes,365,No,0,3.6,1.9,No,1,4,News,Credit/Debit Card,Yes,Yes,Yes,4
+Anush,22,Other,Facebook,03-03-2023,11-06-2023,100,Basic,Yes,180,No,0,1.49,0.84,No,6,4,Productivity,Wallet,No,Yes,Yes,3
+Ayshwarya,29,Other,Facebook,07-02-2024,31-08-2025,0,Free,Yes,0,Yes,14,3.05,2.3,No,9,4,Education,Credit/Debit Card,No,No,Yes,3
+Anirudh,25,Male,Facebook,07-11-2024,09-02-2026,459,Premium,Yes,90,Yes,20,1.05,0.58,Yes,4,1,Productivity,Wallet,Yes,Yes,Yes,2
+Noah,27,Male,Gemini,02-04-2023,03-04-2025,700,Premium,No,365,Yes,30,7,1,Yes,10,5,Not Applicable,Credit/Debit Card,No,Yes,Yes,5
+James,21,Male,Gemini,20-12-2024,24-01-2025,0,Free,No,0,No,0,0.1667,0.1667,No,1,1,Not Applicable,Not Applicable,No,No,No,3
+Mahima,38,Other,Gemini,02-05-2024,27-10-2025,0,Free,Yes,0,Yes,14,5.9,0.71,Yes,1,2,Productivity,Wallet,Yes,No,No,3
+Daniel,26,Other,Gemini,28-03-2023,09-03-2024,347,Premium,No,180,Yes,15,4.05,1.56,No,1,3,News,Credit/Debit Card,Yes,No,No,2
+Hanirudh,52,Male,Gemini,13-11-2023,06-04-2025,0,Free,No,0,No,0,4.73,2.45,No,3,2,Social,Credit/Debit Card,No,Yes,No,3
+Harika,43,Female,Google,08-04-2023,23-03-2024,350,Basic,No,180,No,0,5.74,2.22,No,2,1,Entertainment,Credit/Debit Card,No,Yes,No,2
+Sukesh,55,Other,Google,29-07-2024,31-07-2025,367,Premium,Yes,365,No,0,5.3,2.85,No,1,3,Social,UPI,No,Yes,Yes,2
+Anesh,32,Male,Google,25-12-2023,15-08-2025,599,Basic,Yes,180,Yes,30,5.15,2.94,Yes,10,3,Entertainment,Credit/Debit Card,No,No,No,3
+Noah,29,Male,Google,02-08-2024,16-10-2025,0,Free,Yes,0,Yes,7,2.57,1.63,Yes,6,3,News,Credit/Debit Card,Yes,Yes,Yes,2
+Nayana,23,Female,Google,29-03-2024,06-07-2025,464,Basic,No,365,No,0,1.69,1.78,No,7,1,News,Credit/Debit Card,No,No,Yes,2
+Anida,20,Male,Google Cloud,12-02-2023,31-01-2024,353,Basic,No,365,No,0,0.7,2.12,No,6,1,News,UPI,Yes,No,No,4
+Ananya,42,Female,Google Cloud,11-07-2023,30-12-2024,538,Premium,No,180,No,0,4.91,2.32,Yes,7,5,Education,Credit/Debit Card,No,No,Yes,1
+Shreya,60,Female,Google Cloud,10-11-2023,10-03-2025,486,Premium,No,90,No,0,2.43,0.61,No,10,4,News,Credit/Debit Card,Yes,No,No,5
+Rohan,19,Male,Google Cloud,14-09-2024,05-01-2026,0,Free,Yes,0,Yes,14,2.49,2.87,Yes,10,2,Productivity,UPI,No,No,Yes,5
+Sita,51,Female,Google Cloud,12-02-2024,28-01-2025,351,Premium,No,90,Yes,5,4.55,1.75,No,9,1,News,UPI,No,Yes,No,4
+Wendy Li,30,Prefer not to say,Google Meet,01-01-2018,04-04-2025,2500,Premium,No,365,No,0,10,3,Yes,15,3,Not Applicable,Gift Card,Yes,Yes,Yes,5
+Dhurv,35,Male,Google Meet,15-01-2024,23-09-2024,252,Basic,No,90,No,0,1.05,2.21,No,1,4,News,Credit/Debit Card,Yes,No,Yes,2
+Rama,21,Female,Google Meet,07-09-2023,12-02-2024,158,Premium,Yes,30,Yes,7,4.97,1.08,Yes,10,1,News,Credit/Debit Card,Yes,No,Yes,1
+Ram,26,Male,Google Meet,02-01-2024,01-10-2024,273,Premium,No,30,Yes,14,0.79,2.35,Yes,2,4,Productivity,UPI,Yes,No,Yes,5
+Bhuvan,60,Other,Google Meet,05-11-2023,18-03-2025,499,Premium,Yes,30,No,0,5.16,1.57,Yes,8,4,Entertainment,Credit/Debit Card,No,Yes,Yes,2
+Bhuvanesh,55,Male,Google Pay,01-01-2018,01-04-2025,0,Free,No,0,Yes,365,0.1667,0.1667,No,4,1,Not Applicable,Not Applicable,No,No,No,4
+Biraj,36,Male,Google Pay,20-07-2023,21-07-2024,0,Free,No,0,No,0,3.53,2.86,No,5,4,Productivity,Wallet,Yes,No,Yes,2
+Bhavin,49,Male,Google Pay,09-07-2024,27-05-2026,0,Free,Yes,0,Yes,365,2.77,2.61,Yes,2,2,Entertainment,Credit/Debit Card,No,No,Yes,5
+Bhanu,60,Female,Google Pay,17-01-2023,22-02-2023,36,Premium,No,30,Yes,14,3.45,1.22,No,3,1,Entertainment,UPI,Yes,Yes,Yes,5
+Diya,34,Female,Google Pay,01-10-2023,10-12-2024,0,Free,No,0,No,0,3.61,2.98,Yes,5,1,Entertainment,Credit/Debit Card,No,No,No,5
+Raghavendra PS,55,Male,JioHotstar,01-01-2021,28-03-2025,0,Free,No,0,Yes,365,1,1,No,1,2,Series,Not Applicable,No,No,Not Sure,3
+Swathi,24,Other,JioHotstar,21-05-2023,25-06-2023,35,Premium,Yes,365,No,0,3.13,1,No,6,3,Entertainment,Credit/Debit Card,Yes,Yes,Yes,4
+Shanti,20,Female,JioHotstar,22-05-2024,28-12-2024,220,Premium,No,30,Yes,14,3.62,0.77,No,5,4,Social,UPI,No,Yes,No,3
+Shilpa,25,Female,JioHotstar,16-06-2023,27-10-2024,499,Premium,No,90,Yes,20,4.85,1.92,Yes,3,5,Productivity,Wallet,No,Yes,No,1
+Swapna,37,Male,JioHotstar,20-02-2024,17-08-2025,544,Premium,No,30,No,0,2.52,1.05,Yes,8,2,Productivity,UPI,No,No,No,5
+Tanushree R,20,Female,Linways,01-06-2024,02-04-2025,0,Free,No,0,Yes,365,0.1667,0.1667,No,6,2,Not Applicable,Not Applicable,Yes,No,No,3
+Aarush,36,Male,Linways,12-08-2024,03-08-2025,356,Premium,No,90,No,0,5.32,2.96,Yes,7,3,News,Credit/Debit Card,Yes,No,No,1
+Ram,59,Other,Linways,26-01-2024,15-08-2025,567,Basic,No,365,Yes,14,2.57,2.39,No,4,2,News,Credit/Debit Card,No,Yes,No,4
+Pranav,48,Male,Linways,07-12-2023,11-11-2024,0,Free,Yes,0,Yes,30,5.53,2.24,Yes,7,2,Social,UPI,No,No,No,5
+Priya,37,Female,Linways,04-01-2024,12-07-2025,555,Basic,No,30,No,0,4.69,1.3,Yes,6,3,Productivity,Credit/Debit Card,Yes,Yes,Yes,3
+Revati Joshi,50,Female,Microsoft Azure,02-05-2019,02-04-2025,1917,Premium,No,365,Yes,3,10,10,No,3,1,Not Applicable,Not Applicable,No,No,Yes,5
+Anusha,35,Female,Microsoft Azure,11-09-2023,03-03-2024,0,Free,Yes,0,No,0,5.25,1.55,Yes,6,5,News,Credit/Debit Card,Yes,No,No,4
+Rithvik,49,Male,Microsoft Azure,03-04-2023,08-06-2024,432,Premium,No,90,Yes,14,0.77,1.2,No,5,5,Entertainment,Credit/Debit Card,No,Yes,No,3
+Ariyan,41,Male,Microsoft Azure,15-02-2024,07-05-2024,82,Premium,Yes,180,No,0,0.9,1.76,No,10,5,Entertainment,Credit/Debit Card,Yes,No,No,3
+Anvi,27,Male,Microsoft Azure,08-09-2024,13-03-2026,551,Basic,Yes,30,Yes,7,4.42,2.51,No,3,5,Social,Credit/Debit Card,No,No,Yes,4
+Raghavendra PS,55,Male,Netflix,01-01-2020,29-03-2025,3,Basic,No,30,No,0,2,3,Yes,1,2,Series,UPI,No,No,Yes,4
+Rohini M,21,Female,Netflix,09-10-2024,06-03-2025,3,Basic,No,93,Yes,10,5,3,No,1,3,Series,UPI,Yes,No,Not Sure,4
+Lavan,18,Male,Netflix,08-03-2024,21-03-2025,378,Basic,Yes,90,No,0,1.06,1.45,No,6,5,News,Credit/Debit Card,No,Yes,No,1
+Aditi Samhit,22,Female,Netflix ,23-01-2025,02-04-2025,67,Premium,No,120,Yes,30,2,2,Yes,3,2,Series,Gift Card,Yes,Yes,Yes,5
+Gurmeet Kaur,20,Female,Netflix ,01-04-2023,02-04-2025,731,Basic,Yes,365,Yes,30,4,3.5,No,3,3,Reality Shows,Credit/Debit Card,Yes,Yes,Not Sure,4
+Lavanya,52,Other,Snapchat,04-11-2024,06-01-2025,0,Free,No,0,Yes,7,4.64,2.28,No,2,3,Education,UPI,Yes,No,No,4
+Haniya,23,Other,Snapchat,21-12-2023,14-03-2024,0,Free,No,0,Yes,14,3.83,2.03,No,6,1,News,Wallet,No,Yes,No,5
+Kavya,45,Male,Snapchat,27-11-2024,18-08-2026,629,Premium,No,30,No,0,4.89,2.28,Yes,5,2,Productivity,Credit/Debit Card,No,No,No,1
+Aadhya,18,Female,Snapchat,31-03-2024,03-05-2025,398,Basic,Yes,90,Yes,7,2.87,1.89,No,2,1,Entertainment,UPI,Yes,No,No,1
+Aanya,44,Female,Snapchat,28-03-2023,19-11-2024,0,Free,Yes,0,Yes,7,1.98,1.17,Yes,2,2,Productivity,UPI,No,No,No,1
+Tanushree R,21,Female,Telegram,12-11-2019,31-03-2025,0,Basic,No,0,No,0,0.3333,0.1667,Yes,5,2,Series,Not Applicable,No,No,No,5
+Jamesh,34,Male,Telegram,02-10-2024,23-03-2026,537,Premium,Yes,365,Yes,7,2.18,2.87,No,10,4,News,Wallet,No,No,Yes,3
+Ariya,55,Other,Telegram,04-07-2023,16-02-2025,0,Free,No,0,No,0,4.89,2.58,Yes,7,4,Education,UPI,Yes,No,Yes,4
+Dhairya,22,Female,Telegram,04-09-2024,06-02-2026,520,Premium,No,365,Yes,14,4.36,2.53,Yes,2,2,News,Credit/Debit Card,Yes,No,No,4
+Alya,18,Male,Telegram,22-09-2023,05-06-2024,257,Premium,Yes,365,No,0,2.65,2.43,Yes,6,1,Productivity,Credit/Debit Card,No,No,Yes,1
+Kimaya,34,Male,Threads,20-04-2023,06-12-2024,0,Free,No,0,Yes,14,1.62,2.09,No,9,4,News,Credit/Debit Card,Yes,No,No,1
+Prav,39,Male,Threads,14-10-2024,08-08-2025,0,Free,No,0,Yes,365,0.91,2.71,Yes,9,1,News,Credit/Debit Card,Yes,No,Yes,1
+Satya,41,Male,Threads,02-01-2024,03-09-2024,245,Premium,Yes,30,No,0,4.79,2.71,No,10,2,Education,Credit/Debit Card,Yes,No,Yes,2
+Ram,44,Other,Threads,12-09-2023,11-07-2024,0,Free,Yes,0,Yes,30,1.72,2.54,No,6,3,Education,Credit/Debit Card,Yes,Yes,No,3
+Radhya,22,Female,Threads,26-12-2023,11-11-2025,686,Premium,No,180,Yes,30,5.32,1.15,No,1,1,Social,Wallet,No,No,No,5
+Samantha Martin,21,Prefer not to say,TikTok,31-12-2016,04-04-2025,0,Free,No,0,Yes,2000,5,1,Yes,10,1,Comedy,Not Applicable,No,No,No,5
+Zoya,59,Other,TikTok,11-04-2023,12-07-2023,92,Basic,No,30,Yes,7,1.55,1.62,No,3,3,Productivity,Credit/Debit Card,Yes,No,Yes,1
+Avvan,18,Male,TikTok,31-08-2023,18-03-2024,200,Basic,No,365,Yes,30,5.46,0.91,Yes,7,3,Productivity,UPI,No,No,Yes,2
+Adhya,54,Female,TikTok,15-08-2024,15-05-2026,0,Free,Yes,0,No,0,5.64,1.01,No,4,3,Productivity,Credit/Debit Card,No,No,No,1
+Aadhvita,47,Other,TikTok,30-07-2024,09-12-2024,0,Free,Yes,0,Yes,14,5.34,2.7,No,5,2,Productivity,UPI,No,Yes,No,1
+Ram Narayan,28,Female,TrueCaller,01-01-2022,04-04-2025,0,Free,No,0,Yes,750,0.0333,0.0333,No,2,1,Not Applicable,Not Applicable,No,No,No,3
+Aarana,30,Female,Truecaller,09-05-2024,25-09-2024,0,Free,No,0,No,0,5.96,1.24,No,5,1,Social,Credit/Debit Card,No,No,Yes,5
+Aashna,32,Other,Truecaller,14-07-2023,09-05-2025,665,Basic,Yes,30,Yes,14,4.84,0.58,No,3,1,News,UPI,No,Yes,Yes,2
+Piyush,41,Other,Truecaller,28-05-2024,02-04-2025,0,Free,No,0,No,0,4.61,1.35,Yes,8,1,Education,Credit/Debit Card,No,No,Yes,4
+Vishwajeet,34,Other,Truecaller,07-05-2023,13-09-2024,495,Basic,No,365,No,0,1.1,1.08,Yes,10,5,News,UPI,Yes,Yes,No,3
+Arjun,51,Male,Udemy,19-10-2023,11-02-2024,0,Free,No,0,Yes,30,1,2.78,No,6,1,Productivity,Credit/Debit Card,No,No,Yes,4
+Arjuna,41,Male,Udemy,29-01-2023,20-01-2024,0,Free,No,0,Yes,1,2.08,2.57,Yes,8,4,Social,Credit/Debit Card,Yes,Yes,No,2
+Pranava,53,Other,Udemy,15-09-2024,08-04-2026,570,Basic,Yes,180,Yes,14,1.17,1.1,No,2,1,Productivity,Credit/Debit Card,Yes,Yes,Yes,3
+Aditya,18,Other,Udemy,28-12-2023,29-09-2024,276,Premium,No,90,Yes,14,0.87,1.82,Yes,7,4,Entertainment,Wallet,No,No,Yes,3
+Sai,40,Male,Udemy,03-11-2024,07-09-2026,0,Free,No,0,Yes,14,3.5,2.53,Yes,8,4,Education,Credit/Debit Card,Yes,No,Yes,3
+Tanushree R,20,Female,Webtoon,16-06-2022,13-11-2024,0,Free,No,0,Yes,365,0.5,0.3333,Yes,5,2,Series,Not Applicable,No,No,No,5
+Rithvika,42,Other,Webtoon,21-01-2023,01-10-2024,619,Basic,No,30,No,0,2.14,1.47,No,9,5,Social,Credit/Debit Card,No,Yes,No,4
+Harioma,19,Female,Webtoon,11-12-2023,27-02-2025,444,Premium,Yes,365,Yes,9,5.49,1.98,Yes,2,4,Education,Wallet,Yes,Yes,No,4
+Bhavani,31,Female,Webtoon,01-12-2023,10-12-2024,375,Basic,No,365,No,0,5.09,1.68,Yes,6,2,Entertainment,Credit/Debit Card,Yes,Yes,Yes,1
+Karan,33,Male,Webtoon,29-04-2024,23-09-2024,147,Premium,Yes,365,No,0,4.72,0.92,Yes,3,3,Entertainment,UPI,Yes,No,No,4
+Tanushree R,20,Female,Weverse,01-01-2022,04-03-2025,0,Free,No,0,Yes,365,0.5,0.3333,No,1,1,Not Applicable,Not Applicable,Yes,No,No,2
+Supriya,22,Other,Weverse,04-10-2024,09-07-2025,0,Free,No,0,Yes,14,3.43,2.15,Yes,9,3,Entertainment,Wallet,No,Yes,No,3
+Priyamani,27,Female,Weverse,30-06-2023,14-01-2025,564,Premium,No,365,No,0,2.9,2.33,No,6,2,Entertainment,UPI,No,Yes,No,5
+Mahendra,39,Male,Weverse,21-05-2024,18-05-2025,0,Free,No,0,No,0,4.89,1.35,No,9,1,Social,Credit/Debit Card,Yes,Yes,No,4
+Mohandas,48,Other,Weverse,17-05-2024,17-09-2025,0,Free,Yes,0,Yes,30,4.3,1.27,No,8,5,Social,UPI,No,No,No,4
+Raghavendra PS ,55,Male,Whatsapp,01-01-2016,01-04-2025,0,Free,No,0,Yes,365,5,0.3333,No,4,1,Not Applicable,Not Applicable,No,No,No,5
+Rakesh,23,Male,WhatsApp,23-04-2023,26-10-2023,186,Premium,Yes,365,Yes,30,2.6,2.99,No,9,1,Entertainment,Credit/Debit Card,No,No,Yes,3
+Suraj,28,Female,WhatsApp,04-01-2023,30-10-2023,299,Premium,Yes,30,No,0,5.13,1.77,Yes,3,3,Education,Credit/Debit Card,Yes,No,No,1
+Amrin,37,Female,WhatsApp,18-11-2024,14-10-2026,695,Basic,No,365,Yes,7,1.74,1.35,Yes,10,2,Entertainment,Credit/Debit Card,Yes,Yes,Yes,1
+Amir,22,Other,WhatsApp,01-09-2023,12-07-2024,315,Premium,No,90,Yes,30,1.84,1.68,No,4,1,Entertainment,Wallet,No,No,No,4
+Bhaskar,32,Male,Youtube,18-04-2010,02-04-2025,5415,Standard,Yes,30,No,0,5,2,Yes,1,1,Movies,UPI,Yes,No,Yes,5
+Tanu,29,Female,Youtube,15-01-2023,13-08-2024,0,Free,No,0,Yes,14,4.34,0.82,No,2,1,Social,UPI,No,No,No,3
+Hassan,37,Other,Youtube,15-03-2024,20-02-2025,342,Premium,Yes,30,Yes,7,1.96,0.7,Yes,3,5,Entertainment,Credit/Debit Card,Yes,No,No,5
+Muhammad,36,Male,Youtube,26-08-2023,16-07-2024,325,Premium,No,365,Yes,7,5.58,2.47,Yes,7,1,Social,Credit/Debit Card,Yes,No,Yes,1
+Krishna,28,Female,Youtube,01-09-2024,06-05-2026,612,Basic,No,30,No,0,4.29,2.25,No,9,5,Productivity,Wallet,Yes,Yes,No,3
+Amy,27,Female,Youtube Studio,16-06-2021,26-03-2025,100,Premium,No,365,No,0,5,3,Yes,8,3,Movies,Credit/Debit Card,No,No,Yes,5
+Kabir,19,Male,Youtube Studio,23-08-2023,03-05-2025,619,Premium,Yes,180,Yes,7,3.09,2.13,No,3,5,Productivity,Wallet,Yes,No,No,4
+Zahir,38,Other,Youtube Studio,18-04-2023,29-10-2023,194,Basic,No,365,No,0,4.14,1.5,Yes,8,1,News,UPI,No,Yes,No,5
+Ishaan,60,Other,Youtube Studio,18-04-2024,15-07-2025,0,Free,Yes,0,No,0,3.94,2.4,Yes,5,5,Education,UPI,No,No,Yes,1
+Ramya,28,Female,Youtube Studio,18-07-2024,31-08-2024,44,Premium,No,30,Yes,1,3.04,0.79,Yes,8,3,Social,UPI,No,No,No,2
